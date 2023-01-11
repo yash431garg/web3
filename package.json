@@ -1,0 +1,17 @@
+{
+  "name": "web3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon web.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "solc": "^0.8.17",
+    "web3": "^1.8.1",
+    "web3-eth-contract": "^1.8.1"
+  }
+}
